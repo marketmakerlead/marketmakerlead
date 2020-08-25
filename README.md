@@ -1,7 +1,5 @@
 ### Hi there, I'm Mike - CEO & Founder of [Market Maker Leads][website] 👋
 
-[![Website](https://img.shields.io/website?label=marketmakerleads.com&style=for-the-badge&url=https%3A%2F%2Fmarketmakerleads.com)](www.marketmakerleads.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/marketmakercall?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Real Estate Agent and Founder of Market Maker.
 
