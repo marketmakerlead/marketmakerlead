@@ -1,8 +1,6 @@
 ### Hi there, I'm Mike - CEO & Founder of [Market Maker Leads][website] 👋
 
 
-## I'm a Real Estate Agent and Founder of Market Maker.
-
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
