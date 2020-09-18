@@ -1,4 +1,4 @@
-### Hi there, I'm Mike - CEO & Founder of [Market Maker Leads][website] 👋
+### Hi there, I'm Mike - CEO & Founder of Market Maker. 👋
 
 
 - 🌱 I’m currently learning everything 🤣
